@@ -1,5 +1,5 @@
 [PSCustomObject]@{
-BlackListUser = "" 
-BlackListAddress = "" 
+BlackListUser = "Mike" 
+BlackListAddress = "22test" 
 true = "True"
 }
